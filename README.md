@@ -1,2 +1,2 @@
 # jornadadev
-Tik Tok Clone - Projeto criado no Joranda Dev (EBAC)
+Tik Tok Clone - Projeto criado no Jornada Dev (EBAC)
